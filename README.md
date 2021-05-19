@@ -9,3 +9,9 @@ Final Project for Advanced Aerial Robot, where we show our efforts to drive two 
   - In DockingNFlying: locking and flying demonstration from two quadrotors to an omnidirectional robot
 - Each subfolder contains one set of simulation, including the CoppeliaSim scene file and the corresponding Python script.
 - API library files that are provided by Coppelia Robotics
+
+## Dependencies
+- Python 3.6
+- Matplotlib
+- numpy
+- The inluded CoppeliaSim API files for Python: for more info, visit https://www.coppeliarobotics.com/helpFiles/index.html

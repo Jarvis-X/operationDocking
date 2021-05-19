@@ -10,6 +10,11 @@ Final Project for Advanced Aerial Robot, where we show our efforts to drive two 
 - Each subfolder contains one set of simulation, including the CoppeliaSim scene file and the corresponding Python script.
 - API library files that are provided by Coppelia Robotics
 
+## What have we done:
+- A `Robot` class that supports controlling all kinds of aerial vehicles with at least 4 controllable DoF's
+- A min-snap trajectory generator
+- A `PID_param` class
+
 ## Dependencies
 - Python 3.6
 - Matplotlib
